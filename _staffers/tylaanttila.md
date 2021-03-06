@@ -1,8 +1,8 @@
 ---
-name: Kevin Lin
+name: Tuomas Ylä-Anttila
 role: Instructor
-email: me@example.com
-website: https://kevinl.info
+email: ted.hsuanyun.chen@gmail.com
+website: https://tedhchen.com
 photo: kevin.jpg
 ---
 

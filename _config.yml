@@ -17,8 +17,8 @@ title: Climate Governance CSS
 tagline: Climate Governance/Applied Data Science for Policy Research
 description: Course Website for GPC-O319 and CS-E5770
 author: Ted Hsuan Yun Chen
-baseurl: '/' # the subpath of your site, e.g. /blog
-url: 'https://ClimateGovernanceCSS.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/ClimateGovernanceCSS' # the subpath of your site, e.g. /blog
+url: 'https://tedhchen.com' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings

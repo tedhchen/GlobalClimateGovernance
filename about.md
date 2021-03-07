@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+nav_order: 1
 description: >-
     Course policies and information.
 ---
@@ -16,18 +17,105 @@ description: >-
 
 ---
 
-## About
+## Description
+This is a collaborative course between social science students at the University of Helsinki and computer science students at Aalto University. Students will work in mixed teams to apply computational social science methods to study some topic of climate governance. Expand the sections below for detailed course descriptions.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat.
+<details close markdown="block">
+<summary>Climate Governance (Univ. Helsinki)</summary>
 
-## Lecture
+This is a course on climate governance, which we take to broadly include the drivers and consequences of policies associated with the distributional outcomes stemming from climate change. Climate change is one of the most dire problems facing contemporary society. A large part of these challenges are social and political in nature, which we can address using sound social scientific research. In this course, students will begin to acquire the skills needed to do this kind of work. First, students will be introduced to concepts in policy studies and topics in contemporary climate governance. Second, with applications to climate governance, students will take a hands-on approach to learning how to do research using quantitative or computational social science approaches. This will be done through research teams comprising budding domain experts (i.e. students themselves) and technical specialists who will serve as data scientists. The technical specialists will be data science and other computational science students from Aalto University enrolled in a companion course on applied data science. 
 
-Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla.
+</details>
 
-## Resources
+<details close markdown="block">
+<summary>Applied Data Science (Aalto Univ.)</summary>
 
-Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi.
+This is an applied data science course where students will learn how to collaborate with domain experts. With the complexity of today’s policy issues as well as the increasing availability of rich but messy data, there is demand for researchers who are skilled in data science and quantitative approaches to studying complex systems. Cross-domain communication is key to successful collaboration, but it is a difficult and often missed part of data science training. In this course, students will take a hands-on approach to learning these skills by working as data scientists on policy research teams. We will specifically be working with social science and policy researchers studying climate governance, but the skills learned should be broadly applicable to research scenarios in the public, academic, and private sectors. The domain experts will be social science students from the University of Helsinki enrolled in a companion course on climate governance. 
+
+</details>
+
+### Target Learning Outcomes
+- Understanding of topical themes in climate governance
+- Working knowledge of the policy process
+- Skills to work in a team comprising domain experts and technical specialists
+- Skills to communicate expert knowledge (substantive and technical) to lay audiences
+
+## Course Expectations
+
+### Classroom Organization
+This course will be conducted fully virtually. As much as possible, we will use a “flipped classroom” format where lectures or notes are provided to students to work through prior to the class. During the regularly scheduled class time, students will be working in breakout rooms with their teams on the research project, and the instructors will rotate between teams to help as needed. This structure is to ensure teams have a dedicated time slot when they can work together with as little need to coordinate outside of the class as possible.
+
+### Students can expect from the course
+- An instruction team from the University of Helsinki and Aalto University made up of social scientists and data scientists that is experienced with climate policy research in multidisciplinary teams.
+- Lectures in video and text format. Depending on the specific session, these will be provided either in advance or shortly after the session.
+- Potential to collaborate with one or more instructors on an academic paper based on a course project. We are open to working with students who wish to pursue an academic career. More detail will be provided during the first class.
+- (Aalto students) Many of the class sessions will focus on domain knowledge in climate governance because this is important for your team projects. However, we do not expect you to become experts on climate governance. Instead, your main task in the course is to apply your technical expertise to bring a policy research project to fruition. The hands-on instruction will help you do this.
+
+### We expect from students
+- Commitment to research and hands-on learning. This is a research-based course, where lectures are designed as supporting material. We conceive of research broadly, including academic and policy-oriented research.
+- Respect for everyone involved with the course (i.e. students, instructors, guest lecturers). It is especially important to understand that teams will comprise members from diverse and multidisciplinary backgrounds. A large part of this course is learning to work in these types of teams. Communication and patience are paramount.
+- Full attendance, as much as possible. Students will be working in teams, and missed sessions are difficult to make up.
+- Basics: contribute to team work; do the readings; listen or read the lectures.
 
 ## Assignments
+Tasks for the course will be organized around a written project students undertake in teams. Based on their interests and career goals, students can choose from a number of different topics, written as either a short research paper or policy brief.
 
-Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus.
+<style type="text/css">
+.tg  {border:none;border-collapse:collapse;border-color:#ccc;border-spacing:0;}
+.tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:0px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:0px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-dvpl{border-color:inherit;text-align:right;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-c3ow">Assignment</th>
+    <th class="tg-c3ow">Due Date</th>
+    <th class="tg-c3ow">Weight</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Final team composition and topic</td>
+    <td class="tg-c3ow">23.3</td>
+    <td class="tg-c3ow">-</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Interim reports</td>
+    <td class="tg-c3ow">8.4</td>
+    <td class="tg-c3ow">15%</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Oral presentation</td>
+    <td class="tg-c3ow">20.-22.4</td>
+    <td class="tg-c3ow">20%</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Final written project</td>
+    <td class="tg-c3ow">21.5</td>
+    <td class="tg-c3ow">45%</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Peer evaluation on effort*</td>
+    <td class="tg-c3ow">21.5</td>
+    <td class="tg-c3ow">20%</td>
+  </tr>
+  <tr>
+    <td class="tg-dvpl" colspan="3">*Subject to instructor approval.</td>
+  </tr>
+</tbody>
+</table>
+
+
+### Project topics
+Teams can choose from a project provided by the instruction team, for which they will be provided some data to use. Teams are free to choose their own project, with approval from the instructors. If you choose your own project, you are responsible for your own data, but instructors will help as much as possible.
+
+The topics listed here are broad topics that can cover multiple team projects. More details will be provided in the first class.
+- How do policy actors communicate with each other? Why?
+- What is the role of science in the climate policy process?
+- Understanding public opinion on climate change.
+- Quantifying the social consequences of climate change.

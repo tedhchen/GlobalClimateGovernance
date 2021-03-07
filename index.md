@@ -14,8 +14,21 @@ Joint Course Website for Global Climate Governance (Univ. Helsinki GPC-O319) and
 
 ## About
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat.
+This is a collaborative course between social science students at the University of Helsinki and computer science students at Aalto University. Students will work in mixed teams to apply computational methods to study the social and political aspects of climate governance. 
 
-{% for module in site.modules %}
-{{ module }}
-{% endfor %}
+[Click here for a detailed description of the course.]({{ site.baseurl }}{% link about.md %})
+
+*Parts of this site are still under construction and are subject to change.
+
+## Basics
+
+**Meeting Time:** Tue & Thu, 4.15-15.45; 16.3-22.4 (no classes on 1.4 and 6.4)
+
+**Meeting Location:** Virtual
+
+**Office Hours:** By appointment.
+
+**Instructors:**
+{{ site.staffers | where: 'name', 'Ted Hsuan Yun Chen' }}
+{{ site.staffers | where: 'name', 'Tuomas Ylä-Anttila' }}
+{{ site.staffers | where: 'name', 'Ali Faqeeh' }}

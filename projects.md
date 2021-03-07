@@ -5,8 +5,6 @@ nav_order: 3
 description: Outline of course project resources.
 ---
 
-# Calendar
+# Projects
 
-{% for module in site.modules %}
-{{ module }}
-{% endfor %}
+Under construction.

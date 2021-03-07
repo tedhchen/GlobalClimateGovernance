@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Calendar
+title: Outline
 nav_order: 2
 description: Listing of course modules and topics.
 ---
 
-# Calendar
+# Course Outline
 
 {% for module in site.modules %}
 {{ module }}

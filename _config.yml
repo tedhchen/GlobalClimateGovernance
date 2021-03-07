@@ -14,7 +14,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Climate Governance CSS
-tagline: Climate Governance/Applied Data Science for Policy Research
 description: Course Website for GPC-O319 and CS-E5770
 author: Ted Hsuan Yun Chen
 baseurl: '/ClimateGovernanceCSS' # the subpath of your site, e.g. /blog

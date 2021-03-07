@@ -27,10 +27,8 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  My Courses (Aalto):
-    - 'https://mycourses.aalto.fi/course/view.php?id=30748'
   Github Repository:
-    - 'https://github.com/tedhchen/ClimateGovernanceCSS.github.io'
+    - 'https://github.com/tedhchen/ClimateGovernanceCSS'
 aux_links_new_tab: true
 footer_content: 'Ted Hsuan Yun Chen &copy; 2020 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>'
 

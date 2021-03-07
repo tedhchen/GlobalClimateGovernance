@@ -14,6 +14,6 @@ Lectures
 Required Readings
 
 Additional Materials
-: Keogh, E. 2009. ["How to do good research, get it published in SIGKDD and get it cited!"](http://www.cs.ucr.edu/~eamonn/Keogh_SIGKDD09_tutorial.pdf) (slides 16-19)
+: Keogh, E. 2009. ["How to do good research, get it published in SIGKDD and get it cited!"](http://www.cs.ucr.edu/~eamonn/Keogh_SIGKDD09_tutorial.pdf){:target="_blank"} (slides 16-19)
 
 **Topics Due**{: .label .label-blue }

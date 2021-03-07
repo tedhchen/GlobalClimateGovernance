@@ -12,4 +12,4 @@ Lectures
 : Ylä-Anttila, [Collaborative policy networks.](#)
 
 Required Readings
-: Imperial, M.T. et al. 2016. ["Sustaining the useful life of network governance: Life cycles and developmental challenges."](https://doi.org/10.1002/fee.1249) _Frontiers in Ecology and the Environment_ 14(3): 135-144.
+: Imperial, M.T. et al. 2016. ["Sustaining the useful life of network governance: Life cycles and developmental challenges."](https://doi.org/10.1002/fee.1249){:target="_blank"} _Frontiers in Ecology and the Environment_ 14(3): 135-144.

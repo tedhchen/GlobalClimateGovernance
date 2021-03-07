@@ -18,7 +18,9 @@ description: >-
 ---
 
 ## Description
-This is a collaborative course between social science students at the University of Helsinki and computer science students at Aalto University. Students will work in mixed teams to apply computational social science methods to study some topic of climate governance. Expand the sections below for detailed course descriptions.
+This is a collaborative course between social science students at the University of Helsinki and computer science students at Aalto University. Students will work in mixed teams to apply computational methods to study the social and political aspects of climate governance. 
+
+Expand the sections below for detailed course descriptions.
 
 <details close markdown="block">
 <summary>Climate Governance (Univ. Helsinki)</summary>

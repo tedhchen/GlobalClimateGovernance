@@ -1,8 +1,9 @@
 ---
 name: Ali Faqeeh
 role: Instructor
-email: ted.hsuanyun.chen@gmail.com
-website: https://tedhchen.com
-photo: chen_head_small.jpg
+email: afaqeeh@iu.edu
+website: https://sites.google.com/site/alifaqeehweb/
+photo: faqeeh_cropped.jpg
 affiliation: Aalto University
+pronouns: he/him
 ---

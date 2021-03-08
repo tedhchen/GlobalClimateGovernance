@@ -22,7 +22,7 @@ This is a collaborative course between social science students at the University
 
 ## Basics
 
-**Meeting Time:** Tue & Thu, 4.15-15.45; 16.3-22.4 (no classes on 1.4 and 6.4)
+**Meeting Time:** Tue & Thu, 14.15-15.45; 16.3-22.4 (no classes on 1.4 and 6.4)
 
 **Meeting Location:** Virtual
 

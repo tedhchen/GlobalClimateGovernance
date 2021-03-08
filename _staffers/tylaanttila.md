@@ -1,8 +1,8 @@
 ---
 name: Tuomas Ylä-Anttila
 role: Instructor
-email: ted.hsuanyun.chen@gmail.com
-website: https://tedhchen.com
-photo: chen_head_small.jpg
+email: tuomas.yla-anttila@helsinki.fi
+website: https://researchportal.helsinki.fi/en/persons/tuomas-ylä-anttila
+photo: tuomas_passikuva_tuhatista.jpg
 affiliation: University of Helsinki
 ---

@@ -8,7 +8,7 @@ Overview
 
 Lectures
 : Ylä-Anttila, [International organizations and climate governance.](#)
-: Chen, [Transnational actors in climate governance](#)
+: Chen, [Networks of transnational actors.](#)
 
 Required Readings
 : Leifeld, P., Fisher, D. 2017. ["Membership nominations in international scientific assessments."](https://doi.org/10.1038/nclimate3392){:target="_blank"} _Nature Climate Change_ 7, 730-735.

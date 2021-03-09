@@ -4,6 +4,7 @@ title: 2. Computational Social Science and Climate Governance Research (18.3)
 
 Overview
 : - Overview of current computational social science studies in climate policy-related research.
+: - Discussion of possible project topics.
 
 Lectures
 : Chen, [Reading Discussion](#)

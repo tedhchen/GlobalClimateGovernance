@@ -7,7 +7,7 @@ Overview
   - How to present expert and technical information to a lay audience in a policy or research presentation?
 
 Lectures
-: Chen, [Scientific Communication](#)
+: Chen, [Scientific communication.](#)
 
 Required Readings
 : Kueffer, C., Larson, B.M.H. 2014. ["Responsible Use of Language in Scientific Writing and Science Communication."](https://doi.org/10.1093/biosci/biu084){:target="_blank"} _BioScience_ 64(8): 719-724.

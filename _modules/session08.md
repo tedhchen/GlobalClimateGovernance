@@ -7,8 +7,8 @@ Overview
   - To what extent are there inequalities associated with climate-induced social issues? What kinds of policies are aimed at addressing these issues and are they effective?
 
 Lectures
-: Chen, [Climate justice and climate-induced inequalities](#)
-: Chen, [Climate change and natural disasters](#)
+: Chen, [Climate justice and climate-induced inequalities.](#)
+: Talayeh Aledavood, [Studying outcomes to climate disasters using social media data.](#)
 
 Required Readings
 

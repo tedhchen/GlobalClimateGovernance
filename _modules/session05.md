@@ -4,10 +4,11 @@ title: "5. Contestations over rules and norms: Social movements and climate acti
 
 Overview
 : - How do social movements and climate activists influence climate governance?
+  - What are the ethical considerations when we apply data science to study human beings?
 
 Lectures
-: Chen, [Social movements](#)
-: Chen, [Ethical considerations in computational social science](#)
+: Chen, [Social movements.](#)
+: Chen, [Ethical considerations in computational social science.](#)
 
 Required Readings
 : Imperial, M.T. et al. 2016. ["Sustaining the useful life of network governance: Life cycles and developmental challenges."](https://doi.org/10.1002/fee.1249){:target="_blank"} _Frontiers in Ecology and the Environment_ 14(3): 135-144.

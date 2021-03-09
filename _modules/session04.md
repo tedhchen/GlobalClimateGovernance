@@ -8,7 +8,7 @@ Overview
   - How does this differ by domestic government institutions?
 
 Lectures
-: Chen, [Domestic institutions](#)
+: Chen, [Domestic institutions.](#)
 : Ylä-Anttila, [Collaborative policy networks.](#)
 
 Required Readings

@@ -7,8 +7,8 @@ Overview
   - How do we study policy and governance? How can computational social science, data science, or approaches in complex systems help policy research?
 
 Lectures
-: Chen, [Introduction to the course.](#)
-: Ylä-Anttila, [Why is climate change a social science problem?](#)
+: Chen, Introduction to the course.*
+: Ylä-Anttila, Why is climate change a social science problem?*
 
 Required Readings
 : Hardin, G. 1968. ["The tragedy of the commons."](https://doi.org/10.1126/science.162.3859.1243){:target="_blank"} _Science_ 162(3859): 1243-1248.

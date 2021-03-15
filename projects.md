@@ -29,8 +29,20 @@ The target group composition is 3-4 University of Helsinki students and 1-2 Aalt
 The suggested formats for the final written report are short academic "research notes" or papers for computational social science conferences. These will generally be approximately 3000-4000 words in length. We suggest these formats because they should be more manageable for students and as academic researchers, we can provide the most help. Groups that want to produce other kinds of written reports (e.g. NGO-type policy briefs, longer academic research papers) are in principle welcome to do so, but should consult the instructors first to ensure feasbility.
 
 ## Potential Topics
+Topics for the research projects can be, within reason, anything related to climate governance, broadly defined as the social and political drivers and consequences of policies associated with the distributional outcomes stemming from climate change. Simply to make sure the topics are feasible, selected topics have to be approved by the instructors.
+
+Here are some possible topics:
+- **Policy cooperation:** What determines cooperation between policy actors? How are coalitions or oppositions formed within a policy system? What is the relationship between patterns of policy collaboration and implementation of climate policies?
+- **Climate communication:** How do groups or individuals communicate about climate change? What are effective forms of climate communication? How to antagonist groups communicate their opposition? What kind of misinformation is there?
+- **Public opinion:** Who cares about what of climate change, when and where? Why?
+- **Role of science:** How does "science" shape the social and political aspects of climate governance? What is the evolution of scientific communication on climate change?
+- **Social movements:** What drives or inhibits climate activism? What is the relationship between new technologies and climate social movements?
+- **Social and political consequences of climate change:** How do individuals respond to changes in their lives that resulted from climate change?
+
 
 ## Possible Data Sources
+Here are some possible data sets that groups can use for their research projects. Each data set has a brief description, as well as tags for which broad category of topics they can be used for. Students are welcome to identify and collect their own data, but consultation with the instructors is recommended.
+
 {% assign data = site.modules | where: 'type', 'data' %}
 {% for module in data %}
 {{ module }}

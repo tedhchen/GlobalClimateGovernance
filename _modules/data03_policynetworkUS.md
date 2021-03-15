@@ -8,7 +8,7 @@ Description
 
 
 Related topics
-: - 
+: **Policy cooperation**{: .label .label-blue } **Role of science**{: .label .label-blue }
 
 Source
 : Fisher, D.R. [Project Website for The Climate Constituencies Project](http://www.drfisher.umd.edu/CCP.html){:target="_blank"}

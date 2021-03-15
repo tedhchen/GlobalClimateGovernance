@@ -88,7 +88,7 @@ Tasks for the course will be organized around a written project students underta
   </tr>
   <tr>
     <td class="tg-0pky">Interim reports</td>
-    <td class="tg-c3ow">8.4</td>
+    <td class="tg-c3ow">9.4</td>
     <td class="tg-c3ow">15%</td>
   </tr>
   <tr>

@@ -1,5 +1,6 @@
 ---
 title: 2. Computational Social Science and Climate Governance Research (18.3)
+type: outline
 ---
 
 Overview

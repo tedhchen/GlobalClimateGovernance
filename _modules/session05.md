@@ -1,5 +1,6 @@
 ---
 title: "5. Contestations over rules and norms: Social movements and climate activism (30.3)"
+type: outline
 ---
 
 Overview

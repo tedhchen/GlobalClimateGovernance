@@ -1,5 +1,6 @@
 ---
 title: 1. Climate Governance and Evidence-based Policy Research (16.3)
+type: outline
 ---
 
 Overview

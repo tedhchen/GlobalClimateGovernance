@@ -1,5 +1,6 @@
 ---
 title: "7. International organizations and transnational governance (13.4)"
+type: outline
 ---
 
 Overview

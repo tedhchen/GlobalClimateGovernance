@@ -1,5 +1,6 @@
 ---
 title: "8. Addressing the social consequences of climate change (15.4)"
+type: outline
 ---
 
 Overview

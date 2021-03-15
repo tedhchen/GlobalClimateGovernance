@@ -1,5 +1,6 @@
 ---
 title: "6. Scientific Communication (8.4)"
+type: outline
 ---
 
 Overview

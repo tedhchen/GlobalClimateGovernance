@@ -1,5 +1,6 @@
 ---
 title: 3. Approaches and Considerations in Working on Multidisciplinary Teams (23.3)
+type: outline
 ---
 
 Overview

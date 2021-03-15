@@ -1,5 +1,6 @@
 ---
 title: "9. Presentations (20.4, 22.4)"
+type: outline
 ---
 
 Overview

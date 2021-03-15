@@ -1,5 +1,6 @@
 ---
 title: "4. Contestations over rules and norms: Domestic institutions and policy actors (25.3)"
+type: outline
 ---
 
 Overview

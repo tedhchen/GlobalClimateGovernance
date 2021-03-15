@@ -15,4 +15,4 @@ Required Readings
 Additional Materials
 : Leong, P.A. 2014. ["The passive voice in scientific writing. The current norm in science journals."](https://doi.org/10.22323/2.13010203){:target="_blank"} _Journal of Scientific Communication_ 13(1), A03.
 
-**Interim Reports Due**{: .label .label-blue }
+**Interim reports due by the end of 9.4**{: .label .label-blue }

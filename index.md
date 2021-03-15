@@ -18,7 +18,7 @@ This is a collaborative course between social science students at the University
 
 [Click here for a detailed description of the course.]({{ site.baseurl }}{% link about.md %})
 
-*Parts of this site are still under construction and are subject to change.
+**As we deal with the difficulties of online learning during a pandemic, the course is subject to adjustments, but never in the direction of increased difficulty.**
 
 ## Basics
 

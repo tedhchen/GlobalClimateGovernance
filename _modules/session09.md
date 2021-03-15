@@ -7,4 +7,4 @@ Overview
 
 No more class sessions after 22.4. 
 
-**Final Reports Due 21.5**{: .label .label-blue } **Peer Evaluations Due 21.5**{: .label .label-blue }
+**Final reports due before the end of 21.5**{: .label .label-blue } **Peer evaluations due before the end of 21.5**{: .label .label-blue }

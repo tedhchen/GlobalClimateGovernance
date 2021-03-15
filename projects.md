@@ -18,7 +18,7 @@ description: Outline of course project resources.
 This course is centered around a research project that students will complete in groups of approximately 4-5. We conceive of research broadly, to include academic work from multiple disciplines (e.g. traditional disciplinary social science, climate science, computational social science) as well as policy-oriented research in the vein of something produced by NGOs or international organizations.
 
 Throughout the course, students will produce three outputs:
-- an written interim report that outlines the topic, motivation, protocols, and expected findings
+- a written interim report that outlines the topic, motivation, protocols, and expected findings
 - an oral presentation based on all progress made by the end of the lecture portion of this course, ideally including initial results
 - a final written report in a format agreed-upon between the group and the instructors (see below for more details)
 

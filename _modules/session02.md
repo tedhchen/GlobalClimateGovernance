@@ -8,7 +8,7 @@ Overview
   - Discussion of possible project topics.
 
 Lectures
-: Chen, Reading discussion.*
+: Chen, [Social data science framework for studying climate governance]({{ site.baseurl }}{% link assets/slides/session02.pdf %}){:target="_blank"}.*
 
 Required Readings
 : Lazer, D.M.J. et al. 2020. ["Computational social science: Obstacles and opportunities."](https://doi.org/10.1126/science.aaz8170){:target="_blank"} _Science_ 369(6507): 1060-1062.

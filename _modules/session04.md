@@ -9,7 +9,7 @@ Overview
   - How does this differ by domestic government institutions?
 
 Lectures
-: Chen, [Domestic institutions.](https://vimeo.com/530190247){:target="_blank"}
+: Chen, [Domestic institutions.](https://vimeo.com/530190247){:target="_blank"} ([slides]({{ site.baseurl }}{% link assets/slides/session04_regimes.pdf %}){:target="_blank"})
 : Ylä-Anttila, [Collaborative policy networks.](https://helsinkifi-my.sharepoint.com/:v:/g/personal/ylaantti_ad_helsinki_fi/EURgPdCcGb1PkY2KX1efdCYBB9tlUdBlLeCUX4mYpK5Yhg?e=qLrify){:target="_blank"}
 
 Required Readings

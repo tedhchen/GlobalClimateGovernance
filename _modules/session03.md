@@ -8,9 +8,9 @@ Overview
 
 Lectures
 : Talayeh Aledavood, Lecturer, Aalto University, Guest lecture.*
-: Faqeeh, [Considerations from a technical perspective.](#)
-: Ylä-Anttila, [Considerations from a domain expert perspective.](#)
-: Chen, [Summary.](#)
+: Faqeeh, Considerations from a technical perspective.*
+: Ylä-Anttila, Considerations from a domain expert perspective.*
+: Chen, Panel discussion host.*
 
 Required Readings
 : Keogh, E. 2009. ["How to do good research, get it published in SIGKDD and get it cited!"](http://www.cs.ucr.edu/~eamonn/Keogh_SIGKDD09_tutorial.pdf){:target="_blank"} (slides 16-19)

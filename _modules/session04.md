@@ -9,8 +9,8 @@ Overview
   - How does this differ by domestic government institutions?
 
 Lectures
-: Chen, [Domestic institutions.](#)
-: Ylä-Anttila, [Collaborative policy networks.](#)
+: Chen, [Domestic institutions.](https://vimeo.com/530190247){:target="_blank"}
+: Ylä-Anttila, [Collaborative policy networks.](https://helsinkifi-my.sharepoint.com/:v:/g/personal/ylaantti_ad_helsinki_fi/EURgPdCcGb1PkY2KX1efdCYBB9tlUdBlLeCUX4mYpK5Yhg?e=qLrify){:target="_blank"}
 
 Required Readings
 : Povitkina, M. 2018. ["The limits of democracy in tackling climate change."](https://doi.org/10.1080/09644016.2018.1444723){:target="_blank"} _Environmental Politics_ 27(3): 411-432.

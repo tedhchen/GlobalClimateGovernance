@@ -1,19 +1,17 @@
 ---
-title: "5. Contestations over rules and norms: Social movements and climate activism (30.3)"
+title: "5. Scientific Communication (30.3)"
 type: outline
 ---
 
 Overview
-: - How do social movements and climate activists influence climate governance?
-  - What are the ethical considerations when we apply data science to study human beings?
+: - How to write a research report? An academic paper? A policy brief?
+  - How to present expert and technical information to a lay audience in a policy or research presentation?
 
 Lectures
-: Chen, [Social movements.](#)
-: Chen, [Ethical considerations in computational social science.](#)
+: Chen, Scientific communication.*
 
 Required Readings
-: Boulianne, S. et al. 2020. ["“School Strike 4 Climate”: Social Media and the International Youth Protest on Climate Change"](http://dx.doi.org/10.17645/mac.v8i2.2768){:target="_blank"} _Media and Communication_ 8(2).
-: Metcalf, J., Crawford, K. 2016. ["Where are human subjects in Big Data research? The emerging ethics divide."](https://doi.org/10.1177/2053951716650211){:target="_blank"} _Big Data & Society_ 3(1).
+: Kueffer, C., Larson, B.M.H. 2014. ["Responsible Use of Language in Scientific Writing and Science Communication."](https://doi.org/10.1093/biosci/biu084){:target="_blank"} _BioScience_ 64(8): 719-724.
 
 Additional Materials
-: [Aalto University Guidelines on Ethics of Review and Data Protection Impact Assessment.](https://www.aalto.fi/en/for-aalto-community/ethical-review-of-research-and-dpia){:target="_blank"}
+: Leong, P.A. 2014. ["The passive voice in scientific writing. The current norm in science journals."](https://doi.org/10.22323/2.13010203){:target="_blank"} _Journal of Scientific Communication_ 13(1), A03.

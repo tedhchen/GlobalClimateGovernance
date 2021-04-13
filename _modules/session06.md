@@ -8,7 +8,7 @@ Overview
   - What are the ethical considerations when we apply data science to study human beings?
 
 Lectures
-: Chen, Social movements.
+: Chen, [Social movements and climate activism.](https://vimeo.com/manage/videos/536286105){:target="_blank"} ([slides]({{ site.baseurl }}{% link assets/slides/session06_movements.pdf %}){:target="_blank"})
 : Chen, Ethical considerations in computational social science.*
 
 Required Readings

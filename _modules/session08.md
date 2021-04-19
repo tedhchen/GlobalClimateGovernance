@@ -9,7 +9,6 @@ Overview
 
 Lectures
 : Talayeh Aledavood, Guest lecture: Studying outcomes to climate disasters using social media data.*
-: Chen, [Climate justice and climate-induced inequalities.](#)
 
 Required Readings
 : Hazlett, C., Mildenberger, M. 2020. ["Wildfire Exposure Increases Pro-Environment Voting within Democratic but Not Republican Areas."](https://doi.org/10.1017/S0003055420000441){:target="_blank"} _American Political Science Review_ 114(4): 1359-1365.

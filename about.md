@@ -49,13 +49,14 @@ This course will be conducted fully virtually. As much as possible, we will use 
 
 ### Students can expect from the course
 - An instruction team from the University of Helsinki and Aalto University made up of social scientists and data scientists that is experienced with climate policy research in multidisciplinary teams.
+- Instructors who will respect students' backgrounds and strive to make the course an inclusive learning environment by following the course [Code of Conduct.]({{ site.baseurl }}{% link conduct.md %}).
 - Lectures in video and text format. Depending on the specific session, these will be provided either in advance or shortly after the session.
 - Potential to collaborate with one or more instructors on an academic paper based on a course project. We are open to working with students who wish to pursue an academic career. More detail will be provided during the first class.
 - (Aalto students) Many of the class sessions will focus on domain knowledge in climate governance because this is important for your team projects. However, we do not expect you to become experts on climate governance. Instead, your main task in the course is to apply your technical expertise to bring a policy research project to fruition. The hands-on instruction will help you do this.
 
 ### We expect from students
 - Commitment to research and hands-on learning. This is a research-based course, where lectures are designed as supporting material. We conceive of research broadly, including academic and policy-oriented research.
-- Respect for everyone involved with the course (i.e. students, instructors, guest lecturers). It is especially important to understand that teams will comprise members from diverse and multidisciplinary backgrounds. A large part of this course is learning to work in these types of teams. Communication and patience are paramount.
+- Respect for everyone involved with the course (i.e. students, instructors, guest lecturers), and follow the course [Code of Conduct.]({{ site.baseurl }}{% link conduct.md %}). It is especially important to understand that teams will comprise members from diverse and multidisciplinary backgrounds. A large part of this course is learning to work in these types of teams. Communication and patience are paramount.
 - Full attendance, as much as possible. Students will be working in teams, and missed sessions are difficult to make up.
 - Basics: contribute to team work; do the readings; listen or read the lectures.
 

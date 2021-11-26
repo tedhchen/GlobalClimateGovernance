@@ -14,6 +14,8 @@ Joint Course Website for Global Climate Governance (Univ. Helsinki GPC-O319) and
 
 ## About
 
+**[The current website contains information for the 2021 Spring course. It will be updated for the 2022 Spring course in due time.]**
+
 This is a collaborative course between social science students at the University of Helsinki and computer science students at Aalto University. Students will work in mixed teams to apply computational methods to study the social and political aspects of climate governance. 
 
 [Click here for a detailed description of the course.]({{ site.baseurl }}{% link about.md %})

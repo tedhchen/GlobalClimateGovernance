@@ -1,22 +1,22 @@
 ---
 layout: home
-title: Climate Governance CSS
+title: Global Climate Governance
 nav_exclude: true
 seo:
   type: Course
-  name: GPC-O319/CS-E5770
+  name: GPC-O319
 ---
 
-# Computational Social Science for Climate Governance 
+# Global Climate Governance
 {: .mb-2 }
-Joint Course Website for Global Climate Governance (Univ. Helsinki GPC-O319) and Applied Data Science (Aalto Univ. CS-E5770)
+Course Website for Global Climate Governance (Univ. Helsinki GPC-O319)
 {: .fs-6 .fw-300 }
 
 ## About
 
-**[The current website contains information for the 2021 Spring course. It will be updated for the 2022 Spring course in due time.]**
+**[This website is under construction for the 2022 Spring course.]**
 
-This is a collaborative course between social science students at the University of Helsinki and computer science students at Aalto University. Students will work in mixed teams to apply computational methods to study the social and political aspects of climate governance. 
+This is a master's-level course on climate governance from both global and comparative perspectives.
 
 [Click here for a detailed description of the course.]({{ site.baseurl }}{% link about.md %})
 
@@ -24,13 +24,12 @@ This is a collaborative course between social science students at the University
 
 ## Basics
 
-**Meeting Time:** Tue & Thu, 14.15-15.45; 16.3-22.4 (no classes on 1.4 and 6.4)
+**Meeting Time:** Wed 12.15-13.45 & Thu, 14.15-15.45; 16.3-21.4 (no classes on 14.4 and 20.4)
 
-**Meeting Location:** Virtual
+**Meeting Location:** Wed: Kielikeskus, sh.403, Language Centre, Fabianinkatu 26; Thu: Päärakennus, U4080, Päärakennus
 
 **Office Hours:** By appointment.
 
 **Instructors:**
 {{ site.staffers | where: 'name', 'Ted Hsuan Yun Chen' }}
 {{ site.staffers | where: 'name', 'Tuomas Ylä-Anttila' }}
-{{ site.staffers | where: 'name', 'Ali Faqeeh' }}

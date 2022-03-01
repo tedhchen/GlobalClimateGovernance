@@ -9,7 +9,7 @@ seo:
 
 # Global Climate Governance
 {: .mb-2 }
-Course Website for Global Climate Governance (Univ. Helsinki GPC-O319)
+Course website for GPC-O319 at the University of Helsinki.
 {: .fs-6 .fw-300 }
 
 ## About
@@ -20,13 +20,18 @@ This is a master's-level course on climate governance from both global and compa
 
 [Click here for a detailed description of the course.]({{ site.baseurl }}{% link about.md %})
 
-**As we deal with the difficulties of online learning during a pandemic, the course is subject to adjustments, but never in the direction of increased difficulty.**
+**As we deal with the difficulties of everything going on in the world right now, the course is subject to adjustments, but never in the direction of increased difficulty.**
 
 ## Basics
 
-**Meeting Time:** Wed 12.15-13.45 & Thu, 14.15-15.45; 16.3-21.4 (no classes on 14.4 and 20.4)
+**Meeting Times:**
+- Wed: 12.15-13.45
+- Thu: 14.15-15.45; 
+- 16.3-21.4.2022 (no classes on 14.4 and 20.4)
 
-**Meeting Location:** Wed: Kielikeskus, sh.403, Language Centre, Fabianinkatu 26; Thu: Päärakennus, U4080, Päärakennus
+**Meeting Location:** 
+- Wed: Kielikeskus, sh.403, Language Centre, Fabianinkatu 26
+- Thu: Päärakennus, U4080, Päärakennus
 
 **Office Hours:** By appointment.
 

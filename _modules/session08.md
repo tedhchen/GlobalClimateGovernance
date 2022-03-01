@@ -1,18 +1,21 @@
 ---
-title: "8. Addressing the social consequences of climate change (15.4)"
+title: "8. Transnational actors in global climate governance (7.4)"
 type: outline
 ---
 
 Overview
-: - How have changes to the environment affected social systems? 
-  - To what extent are there inequalities associated with climate-induced social issues? What kinds of policies are aimed at addressing these issues and are they effective?
+: - How do norms spread around the world?
 
 Lectures
-: Talayeh Aledavood, Guest lecture: Studying outcomes to climate disasters using social media data.*
+: Chen, [Networks of transnational actors.](#)
 
 Required Readings
-: Hazlett, C., Mildenberger, M. 2020. ["Wildfire Exposure Increases Pro-Environment Voting within Democratic but Not Republican Areas."](https://doi.org/10.1017/S0003055420000441){:target="_blank"} _American Political Science Review_ 114(4): 1359-1365.
-: Wang, Z. et al. 2019. ["Are vulnerable communities digitally left behind in social responses to natural disasters? An evidence from Hurricane Sandy with Twitter data."](https://doi.org/10.1016/j.apgeog.2019.05.001){:target="_blank"} _Applied Geography_ 108, 1-8.
+: Leifeld, P., Fisher, D. 2017. ["Membership nominations in international scientific assessments."](https://doi.org/10.1038/nclimate3392){:target="_blank"} _Nature Climate Change_ 7, 730-735.
+: Vu, H.T. et al. 2020. ["Who Leads the Conversation on Climate Change?: A Study of a Global Network of NGOs on Twitter."](https://doi.org/10.1080/17524032.2019.1687099){:target="_blank"} _Environmental Communication_ 14(4):450-464.
 
 Additional Materials
-: Mah, A. 2017. ["Environmental justice in the age of big data: challenging toxic blind spots of voice, speed, and expertise."](https://doi.org/10.1080/23251042.2016.1220849){:target="_blank"} _Environmental Sociology_ 3(2): 122–133.
+: Hale, T. 2020. ["Transnational actors and transnational governance in global environmental politics."](https://doi.org/10.1146/annurev-polisci-050718-032644){:target="_blank"} _Annual Review of Political Science_ 23, 203-220.
+: Vu, H.T. et al. 2021. ["Social Media and Environmental Activism: Framing Climate Change on Facebook by Global NGOs."](https://doi.org/10.1080/17524032.2019.1687099){:target="_blank"} _Science Communication_ 43(1):91-115.
+: Fünfgeld, H. 2015. ["Facilitating local climate change adaptation through transnational municipal networks"](https://doi.org/10.1016/j.cosust.2014.10.011){:target="_blank"} _Current Opinions in Environmental Sustainability_ 12, 67-73.
+
+**Interim reports due by the end of 7.4**{: .label .label-blue }

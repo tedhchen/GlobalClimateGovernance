@@ -1,21 +1,19 @@
 ---
-title: 2. Computational Social Science and Climate Governance Research (18.3)
+title: "2. Contestations over rules and norms: Domestic institutions (17.3)"
 type: outline
 ---
 
 Overview
-: - Overview of current computational social science studies in climate policy-related research.
-  - Discussion of possible project topics.
+: - What is a useful framework for understanding policy-making? How do political survival considerations influence policy decisions?
+  - How does this differ by domestic government institutions?
 
 Lectures
-: Chen, [Social data science framework for studying climate governance]({{ site.baseurl }}{% link assets/slides/session02.pdf %}){:target="_blank"}.*
+: Chen, [Domestic institutions.](https://vimeo.com/530190247){:target="_blank"} ([slides]({{ site.baseurl }}{% link assets/slides/session04_regimes.pdf %}){:target="_blank"})
 
 Required Readings
-: Lazer, D.M.J. et al. 2020. ["Computational social science: Obstacles and opportunities."](https://doi.org/10.1126/science.aaz8170){:target="_blank"} _Science_ 369(6507): 1060-1062.
-: Gibert, K. 2018. ["Environmental Data Science."](https://doi.org/10.1016/j.envsoft.2018.04.005){:target="_blank"} _Environmental Modelling & Software_ 106, 4-12.
+: Povitkina, M. 2018. ["The limits of democracy in tackling climate change."](https://doi.org/10.1080/09644016.2018.1444723){:target="_blank"} _Environmental Politics_ 27(3): 411-432.
 
 Additional Materials
-: Ilieva, R.T., McPhearson, T. 2018. ["Social-media data for urban sustainability."](https://doi.org/10.1038/s41893-018-0153-6){:target="_blank"} _Nature Sustainability_ 1, 553-565.
-: Schmid-Petri, H. 2017. ["Politicization of science: how climate change skeptics use experts and scientific evidence in their online communication."](https://doi.org/10.1007/s10584-017-2112-z){:target="_blank"} _Climatic Change_ 145, 523-537.
-: Treen, K.M.D. et al. 2020. ["Online misinformation about climate change"]( https://doi.org/10.1002/wcc.665){:target="_blank"} _WIREs: Climate Change_ 11(5): e665.
-: Ackerman, M.S. 2000. ["The Intellectual Challenge of CSCW: The Gap Between Social Requirements and Technical Feasibility. Human–Computer Interaction"](https://www.tandfonline.com/doi/abs/10.1207/S15327051HCI1523_5){:target="_blank"} _Human-Computer Interaction_ 15(2-3): 179-203.
+: von Stein, J. 2020. ["Democracy, Autocracy, and Everything in Between: How Domestic Institutions Affect Environmental Protection."](https://doi.org/10.1017/S000712342000054X){:target="_blank"} _British Journal of Political Science_, 1-19.
+: Li, Q., Reuveny, R. 2006. ["Democracy and Environmental Degradation."](https://doi.org/10.1111/j.1468-2478.2006.00432.x){:target="_blank"} _International Studies Quarterly_ 50(4): 935-956.
+: Dryzek, J.S., Niemeyer, S. 2019. ["Deliberative democracy and climate governance."](https://doi.org/10.1038/s41562-019-0591-9){:target="_blank"} _Nature Human Behaviour_ 3, 411-413.

@@ -1,21 +1,16 @@
 ---
-title: 3. Approaches and Considerations in Working on Multidisciplinary Teams (23.3)
+title: "3. Contestations over rules and norms: Elite policy actors (23.3)"
 type: outline
 ---
 
 Overview
-: - How to work in multidisciplinary teams? How can domain experts and technical specialists communicate with each other?
+: - Who works with whom to influence what policies when? With an emphasis on actors who work within formal institutional channels.
 
 Lectures
-: Talayeh Aledavood, Lecturer, Aalto University, Guest lecture.*
-: Faqeeh, Considerations from a technical perspective.*
-: Ylä-Anttila, Considerations from a domain expert perspective.*
-: Chen, Panel discussion host.*
+: Ylä-Anttila, [Collaborative policy networks.](https://vimeo.com/530448958){:target="_blank"}
 
 Required Readings
-: Keogh, E. 2009. ["How to do good research, get it published in SIGKDD and get it cited!"](http://www.cs.ucr.edu/~eamonn/Keogh_SIGKDD09_tutorial.pdf){:target="_blank"} (slides 16-19)
+: Imperial, M.T. et al. 2016. ["Sustaining the useful life of network governance: Life cycles and developmental challenges."](https://doi.org/10.1002/fee.1249){:target="_blank"} _Frontiers in Ecology and the Environment_ 14(3): 135-144.
 
 Additional Materials
-: Example videos illustrating good and bad collaboration (links to be provided)
-
-**Topics due by the end of 23.3**{: .label .label-blue }
+: 

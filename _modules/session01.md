@@ -8,7 +8,7 @@ Overview
   - How do we study policy and governance? How can computational social science, data science, or approaches in complex systems help policy research?
 
 Lectures
-: Chen, Introduction to the course.*
+: Chen, [Introduction: Social science framework for studying climate governance]({{ site.baseurl }}{% link assets/slides/session02.pdf %}){:target="_blank"}.*
 : Ylä-Anttila, Why is climate change a social science problem?*
 
 Required Readings

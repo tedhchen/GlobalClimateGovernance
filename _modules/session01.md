@@ -19,3 +19,5 @@ Required Readings
 Additional Materials
 : Bernauer, T. 2013. ["Climate Change Politics."](https://doi.org/10.1146/annurev-polisci-062011-154926){:target="_blank"} _Annual Review of Political Science_ 16, 421-448.
 : Zinnes, D.A. 1980. ["Three puzzles in search of a researcher."](https://doi.org/10.2307/2600250){:target="_blank"} _International Studies Quarterly_ 24(3): 315-342.
+
+**In-person**{: .label .label-purple}

@@ -17,3 +17,5 @@ Additional Materials
 : von Stein, J. 2020. ["Democracy, Autocracy, and Everything in Between: How Domestic Institutions Affect Environmental Protection."](https://doi.org/10.1017/S000712342000054X){:target="_blank"} _British Journal of Political Science_, 1-19.
 : Li, Q., Reuveny, R. 2006. ["Democracy and Environmental Degradation."](https://doi.org/10.1111/j.1468-2478.2006.00432.x){:target="_blank"} _International Studies Quarterly_ 50(4): 935-956.
 : Dryzek, J.S., Niemeyer, S. 2019. ["Deliberative democracy and climate governance."](https://doi.org/10.1038/s41562-019-0591-9){:target="_blank"} _Nature Human Behaviour_ 3, 411-413.
+
+**In-person**{: .label .label-purple}

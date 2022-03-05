@@ -1,5 +1,5 @@
 ---
-title: "4. Contestations over rules and norms: Social movements and climate activism (24.4)"
+title: "4. Contestations over rules and norms: Social movements and climate activism (24.3)"
 type: outline
 ---
 
@@ -20,3 +20,5 @@ Additional Materials
 : Marlon J.R. et al. 2019 ["How Hope and Doubt Affect Climate Change Mobilization."](https://doi.org/10.3389/fcomm.2019.00020){:target="_blank"} _Frontiers in Communication_ 4, 20.
 : Introne, J. et al. 2013. ["Solving Wicked Social Problems with Socio-computational Systems."](https://doi.org/10.1007/s13218-012-0231-2){:target="_blank"} _KI - Künstliche Intelligenz_ 27, 45-52.
 : Ghoshal, S., Bruckman, A. 2019. ["The Role of Social Computing Technologies in Grassroots Movement Building."](https://doi.org/10.1145/3318140){:target="_blank"} _ACM Transactions on Computer-Human Interaction_ 26(3).
+
+**Online**{: .label .label-green}

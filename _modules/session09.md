@@ -16,3 +16,5 @@ Required Readings
 
 Additional Materials
 : Mah, A. 2017. ["Environmental justice in the age of big data: challenging toxic blind spots of voice, speed, and expertise."](https://doi.org/10.1080/23251042.2016.1220849){:target="_blank"} _Environmental Sociology_ 3(2): 122–133.
+
+**In-person**{: .label .label-purple}

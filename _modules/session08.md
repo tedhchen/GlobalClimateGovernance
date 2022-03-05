@@ -6,6 +6,7 @@ type: outline
 Overview
 : - How do norms spread around the world?
 
+
 Lectures
 : Chen, [Networks of transnational actors.](#)
 
@@ -18,4 +19,4 @@ Additional Materials
 : Vu, H.T. et al. 2021. ["Social Media and Environmental Activism: Framing Climate Change on Facebook by Global NGOs."](https://doi.org/10.1080/17524032.2019.1687099){:target="_blank"} _Science Communication_ 43(1):91-115.
 : Fünfgeld, H. 2015. ["Facilitating local climate change adaptation through transnational municipal networks"](https://doi.org/10.1016/j.cosust.2014.10.011){:target="_blank"} _Current Opinions in Environmental Sustainability_ 12, 67-73.
 
-**Interim reports due by the end of 7.4**{: .label .label-blue }
+**In-person**{: .label .label-purple} **Interim reports due by the end of 7.4**{: .label .label-blue }

@@ -8,4 +8,5 @@ Overview
 
 No more class sessions after 21.4. 
 
+**In-person**{: .label .label-purple}
 **Final reports due by the end of 21.5**{: .label .label-blue } **Peer evaluations due by the end of 21.5**{: .label .label-blue }

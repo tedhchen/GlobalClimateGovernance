@@ -1,5 +1,5 @@
 ---
-title: "7. International organizations in climate governance (7.4)"
+title: "7. International organizations in climate governance (6.4)"
 type: outline
 ---
 
@@ -14,3 +14,5 @@ Required Readings
 
 Additional Materials
 : 
+
+**In-person**{: .label .label-purple}

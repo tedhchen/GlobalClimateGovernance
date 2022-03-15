@@ -26,6 +26,7 @@ At the end of this course, students will:
 - Have a working knowledge of the policy process
 - Have obtained the skills to communicate expert knowledge to lay audiences
 - Have produced a team-based research report that is relevant for climate governance and policy
+- Have gained experience working in academic or policy research teams
 
 ## Course Expectations
 

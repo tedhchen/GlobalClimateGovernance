@@ -32,6 +32,8 @@ At the end of this course, students will:
 ### Classroom Organization
 This course will be organized primarily around in-person sessions. Generally speaking, each lesson will have an interactive lecture followed by some time for group work, at which time the instructors will rotate between teams to help as needed. This means that being in the same location is important. However, we are cognizant that some students will need to attend the course remotely. To accomodate this, at least the lecture portion of the course will be viewable remotely. Depending on how many students require remote attendance, we may be able to coordinate remote group work among those students.
 
+We will use a Slack workspace to organize team work. Each team will have its own channel, and this will make is easier for the instructors to keep track of progress and help out where possible.
+
 ### Students can expect from the course
 - Instructors from the University of Helsinki who are social scientists experienced with climate policy research in multidisciplinary teams.
 - Instructors who will respect students' backgrounds and strive to make the course an inclusive learning environment by following the course [Code of Conduct]({{ site.baseurl }}{% link conduct.md %}).

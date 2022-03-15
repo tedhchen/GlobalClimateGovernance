@@ -31,8 +31,8 @@ This is a master's-level course on climate governance from both global and compa
 
 **Meeting Locations:** 
 - Wed: Kielikeskus, sh.403, Language Centre, Fabianinkatu 26
-- Thu: Päärakennus, U4080
-- Thu 21.4: Päärakennus, U4072
+- Thu: Päärakennus, U4080, Fabianinkatu 33
+- Thu 21.4: Päärakennus, U4072, Fabianinkatu 33
 
 **Office Hours:** By appointment.
 

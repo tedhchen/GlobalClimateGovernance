@@ -14,7 +14,7 @@ Course website for GPC-O319 at the University of Helsinki.
 
 ## About
 
-**[This website is under construction for the 2022 Spring course.]**
+**[This materials on this website are currently tentative, as we figure out the best way to implement hybrid learning.]**
 
 This is a master's-level course on climate governance from both global and comparative perspectives.
 
@@ -26,12 +26,13 @@ This is a master's-level course on climate governance from both global and compa
 
 **Meeting Times:**
 - Wed: 12.15-13.45
-- Thu: 14.15-15.45; 
+- Thu: 14.15-15.45 
 - 16.3-21.4.2022 (no classes on 14.4 and 20.4)
 
-**Meeting Location:** 
+**Meeting Locations:** 
 - Wed: Kielikeskus, sh.403, Language Centre, Fabianinkatu 26
-- Thu: Päärakennus, U4080, Päärakennus
+- Thu: Päärakennus, U4080
+- Thu 21.4: Päärakennus, U4072
 
 **Office Hours:** By appointment.
 

@@ -8,7 +8,7 @@ Overview
   - How does this differ by domestic government institutions?
 
 Lectures
-: Chen, [Domestic institutions.](https://vimeo.com/530190247){:target="_blank"} ([slides]({{ site.baseurl }}{% link assets/slides/session04_regimes.pdf %}){:target="_blank"})
+: Chen, Regime Types and Domestic Institutions in Climate Governance.
 
 Required Readings
 : Povitkina, M. 2018. ["The limits of democracy in tackling climate change."](https://doi.org/10.1080/09644016.2018.1444723){:target="_blank"} _Environmental Politics_ 27(3): 411-432.

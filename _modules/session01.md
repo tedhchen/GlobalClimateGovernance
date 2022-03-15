@@ -5,11 +5,11 @@ type: outline
 
 Overview
 : - What is climate governance? Overview of historical and present issues in climate governance.
-  - How do we study policy and governance? How can computational social science, data science, or approaches in complex systems help policy research?
+  - How do we study policy and governance?
 
 Lectures
-: Chen, [Introduction: Social science framework for studying climate governance]({{ site.baseurl }}{% link assets/slides/session02.pdf %}){:target="_blank"}.*
-: Ylä-Anttila, Why is climate change a social science problem?*
+: Ylä-Anttila, Why is climate change a social science problem?
+: Chen, Introduction: Social science framework for studying climate governance.
 
 Required Readings
 : Hardin, G. 1968. ["The tragedy of the commons."](https://doi.org/10.1126/science.162.3859.1243){:target="_blank"} _Science_ 162(3859): 1243-1248.

@@ -9,7 +9,7 @@ Overview
   - How can we extend research from social computing to climate activism?
 
 Lectures
-: Chen, [Social movements and climate activism.](https://vimeo.com/536286105){:target="_blank"} ([slides]({{ site.baseurl }}{% link assets/slides/session06_movements.pdf %}){:target="_blank"})
+: Chen, Social movements and climate activism.
 
 Required Readings
 : McAdam, D. 2017. ["Social Movement Theory and the Prospects for Climate Change Activism in the United States."](https://doi.org/10.1146/annurev-polisci-052615-025801){:target="_blank"} _Annual Review of Political Science_ 20, 189-208.
